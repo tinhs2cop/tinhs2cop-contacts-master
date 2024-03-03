@@ -1,9 +1,9 @@
 {
-  "name": "@tinhs2cop/tinhs2cop-contacts",
+  "name": "@khanhvan75846/khanhvan75846-contacts",
   "version": "1.0.0",
   "description": "Expo module for react-native-contacts library",
   "main": "app.plugin.js",
-  "author": "tinhs2cop@gmail.com",
+  "author": "khanhvan75846@gmail.com",
   "license": "MIT",
   "scripts": {
     "build": "expo-module build",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/tinhs2cop/tinhs2cop-contacts-master#readme",
   "dependencies": {
-    "@expo/config-plugins": "^7.8.4"
+    "@expo/config-plugins": "^7.8.4",
+    "with-rn-contacts": "^0.1.0"
   }
-
 }
