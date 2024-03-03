@@ -1,0 +1,27 @@
+{
+  "name": "@tinhs2cop/tinhs2cop-contacts",
+  "version": "1.0.0",
+  "description": "Expo module for react-native-contacts library",
+  "main": "app.plugin.js",
+  "author": "tinhs2cop@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module"
+  },
+  "devDependencies": {
+    "expo-module-scripts": "^3.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/tinhs2cop/tinhs2cop-contacts-master/issues"
+  },
+  "homepage": "https://github.com/tinhs2cop/tinhs2cop-contacts-master#readme",
+  "dependencies": {
+    "@expo/config-plugins": "^7.8.4"
+  }
+
+}
