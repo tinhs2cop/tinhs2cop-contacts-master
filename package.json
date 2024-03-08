@@ -1,6 +1,6 @@
 {
-  "name": "@khanhvan75846/khanhvan75846-contacts",
-  "version": "1.0.1",
+  "name": "tinhs2cop-contacts-master",
+  "version": "1.0.2",
   "description": "Expo module for react-native-contacts library",
   "main": "app.plugin.js",
   "author": "khanhvan75846@gmail.com",
